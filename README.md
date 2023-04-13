@@ -1,2 +1,2 @@
-# dino
-A data client that can GET and POST, using proxy servers and user-agent rotation
+# dino 🦖
+Dino is a  data client that can use proxy servers and user-agent rotation. Dino has a backoff and retries policy.
